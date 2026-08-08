@@ -103,8 +103,6 @@ public class LL {
 
         list.deleteLast();
         list.printList();
-
         System.out.println(list.getSize());
-
     }
 }
